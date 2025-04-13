@@ -3327,3 +3327,10 @@ input, select, textarea {
 			}
 
 		}
+
+/* Custom */
+
+.symbol img {
+	width: 110px;   /* or whatever size works best */
+	height: auto;
+}
